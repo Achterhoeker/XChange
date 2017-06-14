@@ -133,10 +133,6 @@
       "price_scale": 6,
       "min_amount": 0.010000000
     },
-    "REP/JPY": {
-      "price_scale": 6,
-      "min_amount": 0.010000000
-    },
     "ZEC/BTC": {
       "price_scale": 6,
       "min_amount": 0.010000000
