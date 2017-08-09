@@ -197,6 +197,22 @@
     "BCH/USD": {
       "price_scale": 6,
       "min_amount": 0.020000000
+    },
+        "EOS/BTC": {
+      "price_scale": 6,
+      "min_amount": 3.00000000
+    },
+    "EOS/ETH": {
+      "price_scale": 6,
+      "min_amount": 3.00000000
+    },
+    "EOS/EUR": {
+      "price_scale": 6,
+      "min_amount": 3.00000000
+    },
+    "EOS/USD": {
+      "price_scale": 6,
+      "min_amount": 3.00000000
     }
   },
   "currencies": {},
